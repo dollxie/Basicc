@@ -32,7 +32,7 @@ This is a command-line quiz game where users answer multiple-choice Python-relat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/quiz-game.git
+   git clone https://github.com/dollxie/quiz-game.git
    ```
 2. Navigate to the project directory:
    ```bash
