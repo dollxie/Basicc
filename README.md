@@ -66,7 +66,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [your-email@example.com](mailto:nithyasanthoshinichengelli@gmail.com)
 
-Project Link: [https://github.com/username/quiz-game](https://github.com/username/quiz-game)
+Project Link: [https://github.com/username/quiz-game](https://github.com/dollxie/quiz-game)
 
